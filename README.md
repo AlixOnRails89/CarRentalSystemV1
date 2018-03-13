@@ -8,25 +8,11 @@ TDD life-cycle was used in the development of the project to ensure every method
 
 Features:
 
-Use of static factory methods 
-Defensive program - ensuring incorrect values don't enter the system 
-Developing simple testable methods 
-Combining methods to produce simple algorithms 
-Ensuring the code is readable
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Use of static factory methods.
+* Defensive program techniques - ensuring incorrect values don't enter the system.
+* Developing simple testable methods.
+* Combining methods to produce simple algorithms. 
+* Readble Code.
 
 
 
