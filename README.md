@@ -2,10 +2,10 @@
 
 Project completed while studing for MSc Computer Science from Newcastle University. 
 
-The project is a Car Rental System which demonstrates my understanding of object oriented programming and my ability to build simple algorithms. Each class within the project was refactored according to the rules of clean code.
-TDD was used in the development of the project to ensure every method was correct and the main algorithms.
+The project is a collection of classes that could be used for the development of a Car Rental System application. The project demonstrates the developers understanding of object oriented programming and the ability to build and test simple algorithms. Each class within the project was refactored according to the rules of clean code.
 
-One Paragraph of project description goes here
+TDD life-cycle was used in the development of the project ensuring every method was accurate. This was achieved using JUnit testing framework. The Builder Pattern was used to construct the objects for the Unit Tests. Each test class was developed and improved to achieve the highest possible code coverage using EclEmma.
+
 
 Getting Started
 
