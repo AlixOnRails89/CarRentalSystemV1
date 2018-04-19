@@ -12,7 +12,7 @@ Features:
 * Defensive program techniques - ensuring incorrect values don't enter the system.
 * Developing simple testable methods.
 * Combining methods to produce simple algorithms. 
-* Readble Code.
+* Readable Code.
 
 
 
